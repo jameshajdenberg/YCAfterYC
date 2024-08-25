@@ -1,0 +1,132 @@
+Person,Month,Year,Location,Section,Duration (Days),Reason,State/Country
+Ilan A,May,2022,Capital Camps,Kedma,5,Cornerstone,Pennsylvania
+Miriam B,May,2022,Capital Camps,Yama,5,Cornerstone,Pennsylvania
+Rotem,June,2022,CJ,Staff,57,CJ,North Carolina
+Ilan K,June,2022,CJ,Kedma,57,CJ,North Carolina
+Gaby,June,2022,CJ,Kedma,57,CJ,North Carolina
+Sivan,June,2022,CJ,Kedma,57,CJ,North Carolina
+Shayna,June,2022,CJ,Kedma,57,CJ,North Carolina
+Liora,June,2022,CJ,Kedma,57,CJ,North Carolina
+Julia,June,2022,CJ,Kedma,57,CJ,North Carolina
+Leo H,June,2022,CJ,Kedma,28,CJ,North Carolina
+Hadar,June,2022,CJ,Tsofim,57,CJ,North Carolina
+RAdam,June,2022,CJ,Staff,3,CJ,North Carolina
+Talia L,June,2022,CJ,Yama,28,CJ,North Carolina
+Ella R,June,2022,CJ,Yama,3,CJ,North Carolina
+Alex G,June,2022,CJ,Yama,28,CJ,North Carolina
+Alex W,June,2022,CJ,Yama,28,CJ,North Carolina
+Sara S,June,2022,CJ,Yama,28,CJ,North Carolina
+Abi Z,August,2022,Boston,Kedma,1,Yavneh day off,Massachusetts
+Katherine,August,2022,Boston,Kedma,1,Yavneh day off,Massachusetts
+Ilan A,August,2022,Boston,Kedma,1,Yavneh day off,Massachusetts
+Mila B,August,2022,Boston,Kedma,1,Yavneh day off,Massachusetts
+Henry,August,2022,Boston,Kedma,1,Henry day trip,Massachusetts
+Libby,September,2022,Ithaca,Kedma,4,Cornell trip,New York
+Ilan K,September,2022,Ithaca,Kedma,4,Cornell trip,New York
+Jesse,September,2022,Ithaca,Kedma,4,Cornell trip,New York
+Henry,September,2022,Ithaca,Kedma,4,Cornell trip,New York
+Yael,September,2022,Ithaca,Kedma,4,Cornell trip,New York
+Ilan K,September,2022,Boston,Kedma,4,Rosh Hashanah,Massachusetts
+Yair,September,2022,Boston,Kedma,4,Rosh Hashanah,Massachusetts
+Josh L,September,2022,Boston,Kedma,4,Rosh Hashanah,Massachusetts
+Jayden,September,2022,Boston,Kedma,4,Rosh Hashanah,Massachusetts
+Tamar,September,2022,Boston,Staff,1,Rosh Hashanah,Massachusetts
+Eitan,September,2022,Providence,Kedma,1,Brown trip,Rhode Island
+Alana,September,2022,Providence,Kedma,1,Brown trip,Rhode Island
+Alex D,September,2022,Providence,Kedma,1,Brown trip,Rhode Island
+Lila D,September,2022,Providence,Yama,1,Brown trip,Rhode Island
+Alana,October,2022,Boston,Kedma,1,Alana day trip,Massachusetts
+Josh L,October,2022,Boston,Kedma,1,Josh day trip,Massachusetts
+Henry,November,2022,Boston,Kedma,3,JNF Conference,Massachusetts
+Ilan K,November,2022,Boston,Kedma,3,JNF Conference,Massachusetts
+Jesse,November,2022,Boston,Kedma,3,JNF Conference,Massachusetts
+Rachel B,November,2022,Boston,Kedma,3,JNF Conference,Massachusetts
+Jayden,November,2022,Boston,Kedma,3,JNF Conference,Massachusetts
+Itai,November,2022,Boston,Kedma,3,JNF Conference,Massachusetts
+Mila B,November,2022,Boston,Kedma,3,JNF Conference,Massachusetts
+Yair,November,2022,Boston,Kedma,3,JNF Conference,Massachusetts
+Katherine,November,2022,Boston,Kedma,3,JNF Conference,Massachusetts
+Leo H,December,2022,Sarasota,Kedma,1,Anna visit,Florida
+Libby,January,2023,D.C.,Kedma,2,Teo visit,"Washington, D.C."
+Emma,January,2023,D.C.,Kedma,2,Teo visit,"Washington, D.C."
+Josh L,January,2023,New York City,Kedma,2,NYYC,New York
+Yoni,January,2023,New York City,Kedma,2,NYYC,New York
+Jayden,January,2023,New York City,Kedma,2,NYYC,New York
+Ilan K,January,2023,New York City,Kedma,2,NYYC,New York
+Mila Y,January,2023,New York City,Kedma,2,NYYC,New York
+Rosie,January,2023,New York City,Kedma,2,NYYC,New York
+Lev,January,2023,New York City,Kedma,2,NYYC,New York
+Irit,January,2023,New York City,Kedma,2,NYYC,New York
+Rachel B,January,2023,New York City,Kedma,2,NYYC,New York
+Henry,January,2023,New York City,Kedma,2,NYYC,New York
+Michael,January,2023,New York City,Kedma,2,NYYC,New York
+Sivan,January,2023,New York City,Kedma,2,NYYC,New York
+Shayna,January,2023,New York City,Kedma,2,NYYC,New York
+Julia,January,2023,New York City,Kedma,2,NYYC,New York
+Sara G,January,2023,New York City,Kedma,2,NYYC,New York
+Liora,January,2023,New York City,Kedma,2,NYYC,New York
+Mickey,January,2023,New York City,Kedma,2,NYYC,New York
+Leo H,January,2023,Boston,Kedma,112,NU semester,Massachusetts
+Sami,January,2023,Boston,Kedma,112,NU semester,Massachusetts
+Aaron A,January,2023,Boston,Yama,1,NU semester,Massachusetts
+Libby,February,2023,Ithaca,Kedma,3,Cornell trip,New York
+Sivan,March,2023,New Orleans,Kedma,5,Spring break,Louisiana
+Josh L,March,2023,New Orleans,Kedma,5,Spring break,Louisiana
+Josh L,March,2023,Boston,Kedma,1,Josh day trip,Massachusetts
+Josh L,April,2023,Boston,Kedma,5,Pesach,Massachusetts
+Jayden,April,2023,Boston,Kedma,5,Pesach,Massachusetts
+Libby,April,2023,Ithaca,Kedma,4,Cornell trip,New York
+Yehudah,April,2023,Boston,Kedma,1,Marmon,Massachusetts
+Yair,April,2023,Boston,Kedma,1,Marmon,Massachusetts
+Itai,April,2023,Cambridge,Kedma,1,MIT Track & Field,Massachusetts
+Eitan,May,2023,Providence,Kedma,1,Brown trip,Rhode Island
+Alex D,May,2023,Providence,Kedma,1,Brown trip,Rhode Island
+Alana,May,2023,Providence,Kedma,1,Brown trip,Rhode Island
+Liora,May,2023,CJ,Kedma,69,CJ,North Carolina
+Gaby,May,2023,CJ,Kedma,69,CJ,North Carolina
+Shayna,May,2023,CJ,Kedma,69,CJ,North Carolina
+Julia,May,2023,CJ,Kedma,69,CJ,North Carolina
+Sivan,May,2023,CJ,Kedma,69,CJ,North Carolina
+RAdam,June,2023,CJ,Staff,3,CJ,North Carolina
+Ilan K,July,2023,CJ,Kedma,17,CJ,North Carolina
+Leo H,September,2023,Boston,Kedma,100,NU semester,Massachusetts
+Josh L,September,2023,Boston,Kedma,2,Rosh Hashanah,Massachusetts
+Sami,October,2023,Boston,Kedma,70,NU semester,Massachusetts
+Henry,October,2023,Boston,Kedma,3,Henry day trip,Massachusetts
+Liv,November,2023,Boston,Kedma,1,Sam Rind,Massachusetts
+Emma,December,2023,Cherry Hill,Kedma,4,NJ Trip,New Jersey
+Shira,December,2023,Cherry Hill,Kedma,4,NJ Trip,New Jersey
+Guy R,December,2023,Cherry Hill,Kedma,4,NJ Trip,New Jersey
+Libby,December,2023,Bethesda,Kedma,10,Teo visit,"Washington, D.C."
+Rosie,December,2023,College Park,Kedma,10,Teo visit,"Washington, D.C."
+Danielle,January,2024,Los Angeles,Kedma,2,Content Creators Forum,California
+Josh L,January,2024,Providence,Kedma,1,Brown trip,Rhode Island
+Eitan,January,2024,Providence,Kedma,1,Brown trip,Rhode Island
+Alana,January,2024,Providence,Kedma,1,Brown trip,Rhode Island
+Alex D,January,2024,Providence,Kedma,1,Brown trip,Rhode Island
+Lila D,January,2024,Providence,Yama,1,Brown trip,Rhode Island
+Sami,February,2024,Boston,Kedma,80,NU semester,Massachusetts
+Emma,February,2024,Atlanta,Kedma,2,Israel Summit,Georgia
+Sivan,February,2024,Atlanta,Kedma,2,Israel Summit,Georgia
+Alana,February,2024,Atlanta,Kedma,2,Israel Summit,Georgia
+Shayna,February,2024,Atlanta,Kedma,2,Israel Summit,Georgia
+Ari,February,2024,Atlanta,Kedma,2,Israel Summit,Georgia
+Miriam B,February,2024,Atlanta,Yama,2,Israel Summit,Georgia
+Jonny A,February,2024,Atlanta,Yama,2,Israel Summit,Georgia
+Danielle,February,2024,Los Angeles,Kedma,4,SWU IC,California
+Laelah,February,2024,Los Angeles,Kedma,4,SWU IC,California
+Leo H,March,2024,Boston,Kedma,50,NU semester,Massachusetts
+Yair,April,2024,Boston,Kedma,1,Treble in Bloom,Massachusetts
+Jayden,April,2024,Boston,Kedma,3,Pesach,Massachusetts
+Josh L,May,2024,Israel,Kedma,7,YJ Hartman trip,Israel
+Matan M-N,May,2024,Israel,Kedma,7,YJ Hartman trip,Israel
+Sally,May,2024,Israel,Kedma,7,YJ Hartman trip,Israel
+Andrew,May,2024,Israel,Kedma,1,YJ Hartman trip,Israel
+Emet,May,2024,Israel,Kedma,1,YJ Hartman trip,Israel
+Jayden,May,2024,Israel,Kedma,2,YJ Hartman trip,Israel
+Niv,May,2024,Israel,Kedma,1,YJ Hartman trip,Israel
+Henry,May,2024,Israel,Kedma,2,YJ Hartman trip,Israel
+Liora,May,2024,CJ,Kedma,69,CJ,North Carolina
+Julia,May,2024,CJ,Kedma,69,CJ,North Carolina
+Shayna,May,2024,CJ,Kedma,68,CJ,North Carolina
+RAdam,June,2024,CJ,Staff,4,CJ,North Carolina
