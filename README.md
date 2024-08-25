@@ -1,3 +1,5 @@
+# Visualizing My Gap Year: Year Coursers After Year Course
+
 From 2021-2022, I spent a year in Israel on a program called Year Course (or YC).
 By far the most meaningful part of the experience was the connections I made with each of the people on the program with me.
 Realizing how many times I'd be seeing everyone post-YC, I decided to make a few vizualisations detailing when, why, how, and where I'd seen them.
