@@ -66,8 +66,8 @@ Julia,January,2023,New York City,Kedma,2,NYYC,New York
 Sara G,January,2023,New York City,Kedma,2,NYYC,New York
 Liora,January,2023,New York City,Kedma,2,NYYC,New York
 Mickey,January,2023,New York City,Kedma,2,NYYC,New York
-Leo H,January,2023,Boston,Kedma,112,NU semester,Massachusetts
-Sami,January,2023,Boston,Kedma,112,NU semester,Massachusetts
+Leo H,January,2023,Boston,Kedma,10,NU semester,Massachusetts
+Sami,January,2023,Boston,Kedma,10,NU semester,Massachusetts
 Aaron A,January,2023,Boston,Yama,1,NU semester,Massachusetts
 Libby,February,2023,Ithaca,Kedma,3,Cornell trip,New York
 Sivan,March,2023,New Orleans,Kedma,5,Spring break,Louisiana
@@ -89,9 +89,9 @@ Julia,May,2023,CJ,Kedma,69,CJ,North Carolina
 Sivan,May,2023,CJ,Kedma,69,CJ,North Carolina
 RAdam,June,2023,CJ,Staff,3,CJ,North Carolina
 Ilan K,July,2023,CJ,Kedma,17,CJ,North Carolina
-Leo H,September,2023,Boston,Kedma,100,NU semester,Massachusetts
+Leo H,September,2023,Boston,Kedma,20,NU semester,Massachusetts
 Josh L,September,2023,Boston,Kedma,2,Rosh Hashanah,Massachusetts
-Sami,October,2023,Boston,Kedma,70,NU semester,Massachusetts
+Sami,October,2023,Boston,Kedma,30,NU semester,Massachusetts
 Henry,October,2023,Boston,Kedma,3,Henry day trip,Massachusetts
 Liv,November,2023,Boston,Kedma,1,Sam Rind,Massachusetts
 Emma,December,2023,Cherry Hill,Kedma,4,NJ Trip,New Jersey
@@ -105,7 +105,7 @@ Eitan,January,2024,Providence,Kedma,1,Brown trip,Rhode Island
 Alana,January,2024,Providence,Kedma,1,Brown trip,Rhode Island
 Alex D,January,2024,Providence,Kedma,1,Brown trip,Rhode Island
 Lila D,January,2024,Providence,Yama,1,Brown trip,Rhode Island
-Sami,February,2024,Boston,Kedma,80,NU semester,Massachusetts
+Sami,February,2024,Boston,Kedma,10,NU semester,Massachusetts
 Emma,February,2024,Atlanta,Kedma,2,Israel Summit,Georgia
 Sivan,February,2024,Atlanta,Kedma,2,Israel Summit,Georgia
 Alana,February,2024,Atlanta,Kedma,2,Israel Summit,Georgia
@@ -115,7 +115,7 @@ Miriam B,February,2024,Atlanta,Yama,2,Israel Summit,Georgia
 Jonny A,February,2024,Atlanta,Yama,2,Israel Summit,Georgia
 Danielle,February,2024,Los Angeles,Kedma,4,SWU IC,California
 Laelah,February,2024,Los Angeles,Kedma,4,SWU IC,California
-Leo H,March,2024,Boston,Kedma,50,NU semester,Massachusetts
+Leo H,March,2024,Boston,Kedma,20,NU semester,Massachusetts
 Yair,April,2024,Boston,Kedma,1,Treble in Bloom,Massachusetts
 Jayden,April,2024,Boston,Kedma,3,Pesach,Massachusetts
 Josh L,May,2024,Israel,Kedma,7,YJ Hartman trip,Israel
@@ -130,3 +130,5 @@ Liora,May,2024,CJ,Kedma,69,CJ,North Carolina
 Julia,May,2024,CJ,Kedma,69,CJ,North Carolina
 Shayna,May,2024,CJ,Kedma,68,CJ,North Carolina
 RAdam,June,2024,CJ,Staff,4,CJ,North Carolina
+Leo H,September,2024,Boston,Kedma,8,NU semester,Massachusetts
+Jayden,October,2024,Orlando,Kedma,3,Orlando trip,Florida
